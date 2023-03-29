@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "636740119503",
+    "project_id": "nrb-express",
+    "storage_bucket": "nrb-express.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636740119503:android:668b6baa1e6b1d0b2900ba",
+        "android_client_info": {
+          "package_name": "com.nptl.nrb_express"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636740119503-jfv3rq0u28eupsrh1an337cg5vvl1qs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI4vXKKiqOur02hvVtdLYwYRq2M98aVwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636740119503-jfv3rq0u28eupsrh1an337cg5vvl1qs5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
